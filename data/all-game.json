@@ -3,13 +3,15 @@
         "slug": "1v1-lol",
         "title": "1v1 Lol",
         "img": "1v1-lol.png",
-        "cat": "All, Hot",
+        "url": "https://1v1.lol/",
+        "cat": "All, Hot, New, Popular",
         "order": 1
     },
     {
         "slug": "3d-car-simulator",
         "title": "3d Car SimulatorMad",
         "img": "3d-car-simulator.png",
+        "url": "https://burgerbounty.github.io/s2/3d-car-simulator",
         "cat": "All, Hot",
         "order": 2
     },
@@ -17,6 +19,7 @@
         "slug": "3d-moto-simulator-2",
         "title": "3d Moto Simulator 2",
         "img": "3d-moto-simulator-2.png",
+        "url": "https://burgerbounty.github.io/s2/3d-moto-simulator-2",
         "cat": "All, Hot",
         "order": 3
     },
@@ -24,41 +27,47 @@
         "slug": "4th-and-goal-2022",
         "title": "4th And Goal 2022",
         "img": "4th-and-goal-2022.png",
-        "cat": "All",
+        "url": "https://burgerbounty.github.io/s2/4th-and-goal-2022",
+        "cat": "All, New, Popular",
         "order": 4
     },
     {
         "slug": "4x4-drive-offroad",
         "title": "4x4 Drive Offroad",
         "img": "4x4-drive-offroad.png",
-        "cat": "All",
+        "url": "https://burgerbounty.github.io/s7/4x4-drive-offroad",
+        "cat": "All, New, Popular",
         "order": 5
     },
     {
         "slug": "8-ball-pool",
         "title": "8 Ball Pool",
         "img": "8-ball-pool.png",
-        "cat": "All",
+        "url": "https://burgerbounty.github.io/s8/8-ball-pool",
+        "cat": "All, New, Popular",
         "order": 6
     },
     {
         "slug": "10-minutes-till-dawn",
         "title": "10 Minutes Till Dawn",
         "img": "10-minutes-till-dawn.png",
-        "cat": "All",
+        "url": "https://burgerbounty.github.io/s7/10-minutes-till-dawn",
+        "cat": "All, New, Popular",
         "order": 7
     },
     {
         "slug": "11-11",
         "title": "11-11",
         "img": "11-11.png",
-        "cat": "All",
+        "url": "https://burgerbounty.github.io/s2/11-11",
+        "cat": "All, New, Popular",
         "order": 8
     },
     {
         "slug": "12-minibattles",
         "title": "12 Minibattles",
         "img": "12-minibattles.png",
+        "url": "https://burgerbounty.github.io/s2/12-minibattles",
         "cat": "All",
         "order": 9
     },
@@ -66,6 +75,7 @@
         "slug": "2048",
         "title": "2048",
         "img": "2048.png",
+        "url": "https://burgerbounty.github.io/s/2048",
         "cat": "All",
         "order": 10
     },
@@ -73,6 +83,7 @@
         "slug": "2048-multitask",
         "title": "2048 Multitask",
         "img": "2048-multitask.png",
+        "url": "https://burgerbounty.github.io/s7/2048-multitask",
         "cat": "All",
         "order": 11
     },
@@ -80,6 +91,7 @@
         "slug": "a-dance-of-fire-and-ice",
         "title": "A Dance Of Fire And Ice",
         "img": "a-dance-of-fire-and-ice.png",
+        "url": "https://burgerbounty.github.io/s8/a-dance-of-fire-and-ice",
         "cat": "All",
         "order": 12
     },
@@ -87,6 +99,7 @@
         "slug": "adventure-drivers",
         "title": "Adventure Drivers",
         "img": "adventure-drivers.png",
+        "url": "https://burgerbounty.github.io/s7/adventure-drivers",
         "cat": "All",
         "order": 13
     },
@@ -94,6 +107,7 @@
         "slug": "age-of-war",
         "title": "Age Of War",
         "img": "age-of-war.png",
+        "url": "https://burgerbounty.github.io/s8/age-of-war",
         "cat": "All",
         "order": 14
     },
@@ -101,6 +115,7 @@
         "slug": "amazing-sudoku",
         "title": "Amazing Sudoku",
         "img": "amazing-sudoku.png",
+        "url": "https://burgerbounty.github.io/s77/amazing-sudoku",
         "cat": "All",
         "order": 15
     },
@@ -108,6 +123,7 @@
         "slug": "among-us",
         "title": "Among Us",
         "img": "among-us.png",
+        "url": "https://burgerbounty.github.io/s/among-us",
         "cat": "All",
         "order": 16
     },
@@ -115,6 +131,7 @@
         "slug": "ape-sling",
         "title": "Ape Sling",
         "img": "ape-sling.png",
+        "url": "https://burgerbounty.github.io/s2/ape-sling",
         "cat": "All",
         "order": 17
     },
@@ -122,6 +139,7 @@
         "slug": "aqua-thrills",
         "title": "Aqua Thrills",
         "img": "aqua-thrills.png",
+        "url": "https://burgerbounty.github.io/s2/aqua-thrills",
         "cat": "All",
         "order": 18
     },
@@ -129,6 +147,7 @@
         "slug": "archery-world-tour",
         "title": "Archery World Tour",
         "img": "archery-world-tour.png",
+        "url": "https://burgerbounty.github.io/s/archery-world-tour",
         "cat": "All",
         "order": 19
     },
@@ -136,6 +155,7 @@
         "slug": "arithmetica",
         "title": "Arithmetica",
         "img": "arithmetica.png",
+        "url": "https://burgerbounty.github.io/s2/arithmetica",
         "cat": "All",
         "order": 20
     },
@@ -143,6 +163,7 @@
         "slug": "a-small-world-cup",
         "title": "A Small World Cup",
         "img": "a-small-world-cup.png",
+        "url": "https://burgerbounty.github.io/s2/a-small-world-cup",
         "cat": "All",
         "order": 21
     },
@@ -150,6 +171,7 @@
         "slug": "athletics-hero",
         "title": "Athletics Hero",
         "img": "athletics-hero.png",
+        "url": "https://burgerbounty.github.io/s2/athletics-hero",
         "cat": "All",
         "order": 22
     },
@@ -157,6 +179,7 @@
         "slug": "awesome-tanks",
         "title": "Awesome Tanks",
         "img": "awesome-tanks.png",
+        "url": "https://burgerbounty.github.io/s/awesome-tanks",
         "cat": "All",
         "order": 23
     },
@@ -164,6 +187,7 @@
         "slug": "awesome-tanks-2",
         "title": "Awesome Tanks 2",
         "img": "awesome-tanks-2.png",
+        "url": "https://burgerbounty.github.io/s/awesome-tanks-2",
         "cat": "All",
         "order": 24
     },

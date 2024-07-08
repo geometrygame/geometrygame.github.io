@@ -174,6 +174,13 @@ function loadYouLikeGame(dataJson){
     });
 }
 
+function getSlug() {
+    var currentPathname = window.location.pathname;
+    const parts = currentPathname.split("/");
+    const slug = parts[2].replace(".html", "")
+    return slug;
+}
+
 window.addEventListener('load', function() {
     /* Load file Navigation dùng chung */
     $("#mainNav").load("/layout/navbar.html");
