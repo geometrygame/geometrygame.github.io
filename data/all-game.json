@@ -828,7 +828,9 @@
         "slug": "drift-boss",
         "title": "Drift Boss",
         "img": "drift-boss.jpg",
-        "cat": "All",
+        "url": "https://burgerbounty.github.io/s/drift-boss",
+        "cat": "All, Hot",
+        "stat": 1,
         "order": 112
     },
     {
@@ -842,7 +844,9 @@
         "slug": "drive-mad",
         "title": "Drive Mad",
         "img": "drive-mad.jpg",
-        "cat": "All",
+        "url": "https://burgerbounty.github.io/s77/drive-mad",
+        "cat": "All, Hot",
+        "status": 1,
         "order": 114
     },
     {
