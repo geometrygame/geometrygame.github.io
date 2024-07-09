@@ -36,7 +36,7 @@ function loadHotGame(dataJson, category){
         /* Tìm kiếm chính xác */
         // const eminemRapper = listGames.find((listGame) => listGame.slug === 'duck-life-2-world-champion');
         /* Tìm kiếm theo category */
-        const dataListHotGames = listGames.filter((listGame) => listGame.cat.includes(category));
+        const dataListHotGames = listGames.filter((listGame) => listGame.cat.includes(category) && listGame.status === 1);
         const listHotGames = _.sampleSize(dataListHotGames, 2); /* Hàm lấy 2 phần tử ngẫu nhiên từ mảng */
         for (var j=listHotGames.length-1; j>=0; j--) {
             var item = listHotGames[j];

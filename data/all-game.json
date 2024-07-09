@@ -13,7 +13,7 @@
         "title": "3d Car SimulatorMad",
         "img": "3d-car-simulator.jpg",
         "url": "https://burgerbounty.github.io/s2/3d-car-simulator",
-        "cat": "All, Hot",
+        "cat": "All, New",
         "status": 1,
         "order": 2
     },
@@ -22,7 +22,7 @@
         "title": "3d Moto Simulator 2",
         "img": "3d-moto-simulator-2.jpg",
         "url": "https://burgerbounty.github.io/s2/3d-moto-simulator-2",
-        "cat": "All, Hot",
+        "cat": "All, New",
         "status": 1,
         "order": 3
     },
@@ -960,5 +960,31 @@
         "img": "evo-city-driving.jpg",
         "cat": "All",
         "order": 130
+    },
+    {
+        "slug": "punch-legend-simulator",
+        "title": "Punch Legend Simulator",
+        "img": "punch-legend-simulator.jpg",
+        "cat": "All, Hot, New, Popular",
+        "status": 1,
+        "order": 131
+    },
+    {
+        "slug": "hills-of-steel",
+        "title": "Hills Of Steel",
+        "img": "hills-of-steel.jpg",
+        "url": "https://kdata1.com/2024/05/hillsofsteel/",
+        "cat": "All, Hot, New, Popular",
+        "status": 1,
+        "order": 132
+    },
+    {
+        "slug": "subway-surfers",
+        "title": "Subway Surfers",
+        "img": "subway-surfers.jpg",
+        "url": "https://burgerbounty.github.io/s8/subway-surfers-san-francisco/",
+        "cat": "All, Hot, New, Popular",
+        "status": 1,
+        "order": 132
     }
 ]
