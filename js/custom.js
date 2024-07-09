@@ -75,7 +75,7 @@ function loadNewGame(dataJson, category){
     .then(data => {
         listGames = sortByOrder(data);
         /* Tìm kiếm theo category */
-        const dataListNewGames = listGames.filter((listGame) => listGame.cat.includes(category));
+        const dataListNewGames = listGames.filter((listGame) => listGame.cat.includes(category) && listGame.status === 1);
         const listDataGames = _.sampleSize(dataListNewGames, 30); /* Hàm lấy 2 phần tử ngẫu nhiên từ mảng */
         for (var j=listDataGames.length-1; j>=0; j--) {
             var item = listDataGames[j];
@@ -111,7 +111,7 @@ function loadPopularGame(dataJson, category){
     .then(data => {
         listGames = sortByOrder(data);
         /* Tìm kiếm theo category */
-        const dataListNewGames = listGames.filter((listGame) => listGame.cat.includes(category));
+        const dataListNewGames = listGames.filter((listGame) => listGame.cat.includes(category) && listGame.status === 1);
         const listDataGames = _.sampleSize(dataListNewGames, 30); /* Hàm lấy 2 phần tử ngẫu nhiên từ mảng */
         for (var j=listDataGames.length-1; j>=0; j--) {
             var item = listDataGames[j];
@@ -148,7 +148,8 @@ function loadYouLikeGame(dataJson){
     .then(data => {
         listGames = sortByOrder(data);
         /* Tìm kiếm theo category */
-        const listDataGames = _.sampleSize(listGames, 30); /* Hàm lấy 2 phần tử ngẫu nhiên từ mảng */
+        const dataListNewGames = listGames.filter((listGame) => listGame.status === 1);
+        const listDataGames = _.sampleSize(dataListNewGames, 30); /* Hàm lấy 2 phần tử ngẫu nhiên từ mảng */
         for (var j=listDataGames.length-1; j>=0; j--) {
             var item = listDataGames[j];
             var img = "/images/icon/"+item.img;
