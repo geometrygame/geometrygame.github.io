@@ -4,7 +4,7 @@
         "title": "Geometry Game",
         "img": "Geometry-Game.png",
         "url": "https://games.crazygames.com/en_US/geometry-dash-online/index.html",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 1
     },
@@ -13,7 +13,7 @@
         "title": "Subway Surfers",
         "img": "Subway-Surfers.jpg",
         "url": "https://subwaysurf.io/subway-surfers.play",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 2
     },
@@ -22,7 +22,7 @@
         "title": "Monkey Mart",
         "img": "Monkey-Mart.jpg",
         "url": "https://ubggo.github.io/ub-games/monkeymart/",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 3
     },
@@ -31,7 +31,7 @@
         "title": "Drive mad",
         "img": "Drive-mad.jpg",
         "url": "https://drivemad.me/iframe/index.html",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 4
     },
@@ -40,7 +40,7 @@
         "title": "Hills Of Stell",
         "img": "Hills-Of-Stell.jpg",
         "url": "https://kdata1.com/2024/05/hillsofsteel/",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 5
     },
@@ -49,7 +49,7 @@
         "title": "Stickman Hook",
         "img": "Stickman-Hook.jpg",
         "url": "https://stick-man-hook.github.io/file/",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 6
     },
@@ -58,7 +58,7 @@
         "title": "Stickman Dragon Fight",
         "img": "Stickman-Dragon-Fight.jpg",
         "url": "https://html5.gamemonetize.co/f0hbsg1m7jfual8m1e8gtwqmu286chsr/",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 7
     },
@@ -67,7 +67,7 @@
         "title": "Level Devil",
         "img": "Level-Devil.jpg",
         "url": "https://html5.gamedistribution.com/rvvASMiM/acc82d001dfa4471bde0818db2b7c1c4/index.html?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2xldmVsZGV2aWxkYXNoLmNvbS8iLCJwYXJlbnREb21haW4iOiJsZXZlbGRldmlsZGFzaC5jb20iLCJ0b3BEb21haW4iOiJsZXZlbGRldmlsZGFzaC5jb20iLCJoYXNJbXByZXNzaW9uIjp0cnVlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE3In0%253D",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 8
     },
@@ -76,7 +76,7 @@
         "title": "Ragdoll Hit",
         "img": "Ragdoll-Hit.jpg",
         "url": "https://freetoplayz.github.io/ragdoll-hit/",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 9
     },
@@ -85,7 +85,7 @@
         "title": "Retro Bowl",
         "img": "Retro-Bowl.jpg",
         "url": "https://retrobowl.me/iframe/retro-bowl/latest2.html",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 10
     },
@@ -94,7 +94,7 @@
         "title": "Vectaria-io",
         "img": "Vectaria-io.jpg",
         "url": "https://vectaria.io/home",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 11
     },
@@ -103,7 +103,7 @@
         "title": "Temple Run 2",
         "img": "Temple-Run-2.jpg",
         "url": "https://archive777.com/Temple%20Run/Temple%20Run%202%20Game/",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 12
     },
@@ -112,8 +112,71 @@
         "title": "Disaster Arena",
         "img": "Disaster-Arena.jpg",
         "url": "https://html-classic.itch.zone/html/7644092/Robot fight version 0.1/index.html",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 13
-    }
+    },
+    {
+        "slug": "Geometry-Dash-Spam",
+        "title": "Geometry Dash Spam",
+        "img": "Geometry-Dash-Spam.jpg",
+        "url": "https://geometrydashlitepc.io/geometry-dash-spam.embed",
+        "cat": "Hot, New",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "slug": "Geometry-Dash-Breeze",
+        "title": "Geometry Dash Breeze",
+        "img": "Geometry-Dash-Breeze.jpg",
+        "url": "https://scratch.mit.edu/projects/199071654/embed",
+        "cat": "Hot, New",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "slug": "Geometry-Dash-World",
+        "title": "Geometry Dash World",
+        "img": "Geometry-Dash-World.jpg",
+        "url": "https://geometrydashworld.net/game/geometry-world/",
+        "cat": "Hot, New",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "slug": "Geometry-Dash-Impact-X",
+        "title": "Geometry Dash Impact X",
+        "img": "Geometry-Dash-Impact-X.jpg",
+        "url": "https://scratch.mit.edu/projects/296818811/embed",
+        "cat": "Hot, New",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "slug": "Geometry-Dash-Scratch",
+        "title": "Geometry Dash Scratch",
+        "img": "Geometry-Dash-Scratch.jpg",
+        "url": "https://scratch.mit.edu/projects/105500895/embed",
+        "cat": "Hot, New",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "slug": "Geometry-Dash-Dark-Drop",
+        "title": "Geometry Dash Dark Drop",
+        "img": "Geometry-Dash-Dark-Drop.jpg",
+        "url": "https://scratch.mit.edu/projects/302115583/embed",
+        "cat": "Hot, New",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "slug": "Geometry-Dash-The-Challenge",
+        "title": "Geometry Dash The Challenge",
+        "img": "Geometry-Dash-The-Challenge.jpg",
+        "url": "https://geometrydashlitepc.io/geometry-dash-the-challenge.embed",
+        "cat": "Hot, New",
+        "status": 1,
+        "order": 1
+    },
 ]
