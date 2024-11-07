@@ -4,7 +4,7 @@
         "title": "Geometry Game",
         "img": "Geometry-Game.png",
         "url": "https://games.crazygames.com/en_US/geometry-dash-online/index.html",
-        "cat": "New",
+        "cat": "Hot, New",
         "status": 1,
         "order": 1
     },
@@ -121,7 +121,7 @@
         "title": "Geometry Dash Spam",
         "img": "Geometry-Dash-Spam.jpg",
         "url": "https://geometrydashlitepc.io/geometry-dash-spam.embed",
-        "cat": "Hot, New",
+        "cat": "New",
         "status": 1,
         "order": 1
     },
@@ -178,5 +178,5 @@
         "cat": "Hot, New",
         "status": 1,
         "order": 1
-    },
+    }
 ]
